@@ -12,7 +12,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.callbacks import BaseCallbackHandler
 
 from langchain_community.tools.tavily_search import TavilySearchResults
-from langchain_classic.agents import create_react_agent, AgentExecutor
+from langchain.agents import create_react_agent, AgentExecutor
 
 
 # ============================================================
