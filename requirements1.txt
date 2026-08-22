@@ -7,3 +7,4 @@ tavily-python
 python-dotenv
 langchainhub
 streamlit
+langchain_classic
